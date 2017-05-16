@@ -1,3 +1,15 @@
 @charset "UTF-8";
 /* CSS Document */
 
+@font-face {
+	font-family:"BebasNeue";
+	src: url(bebas-neue.otf);
+}
+
+nav{
+	background-color: #D5AD51;
+}
+nav li{
+		font-family:"BebasNeue";
+
+}
