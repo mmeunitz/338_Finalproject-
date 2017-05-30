@@ -36,12 +36,17 @@ a:hover{
 }
 /*end of nav*/
 
+div{
+	margin: 0 auto; 
+	width:1200px;
+}
+
 
 .textforimage{
-	width:300px;
+	width:400px;
 	height:auto;
 	position:absolute;
-	top:120px;
+	top:275px;
 	left: 30px;
 
 }
@@ -56,15 +61,29 @@ img{ /*these are images for backless dresses*/
 }
 p {
 	font-family: 'Playfair Display', serif;
-	width:800px;
+	width:700px;
 	display:block;
 	margin-left:400px;
 }
 
-h2{
+h1{
 	font-family: 'Playfair Display', serif;
 	font-size:50px;
-	margin-bottom:16px;
+	margin-bottom:70px;
 	text-align: center;
+	font-weight:100;
+}
+
+.offtheshoulder{
+	display: block;
+	clear:both;
+	margin-top:175px;
+}
+.textforimage2{
+	position:absolute;
+	width:400px;
+	height:auto;
+	top:800px;
+	left:30px;
 }
 
