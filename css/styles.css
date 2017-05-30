@@ -43,6 +43,18 @@ a:hover{
 	margin-top:-20px;
 }
 /*start of main page*/
+div{
+	margin: 0 auto;
+	width:1300px;
+
+}
+
+.title{
+	font-family: 'Playfair Display', serif;
+	font-size:50px;
+	margin-bottom:16px;
+	text-align: center;
+}
 img{
 	width:auto;
 	height: 500px;
@@ -62,32 +74,12 @@ img{
 	
 }
 
-.title{
-	font-family: 'Playfair Display', serif;
-	font-size:50px;
-	text-align:center;
-	postion:absolute;
-	margin-bottom:16px;
-	width:100%;
-}
 	
 hr{
 	width:600px;
 	margin-top:50px;
 }
-/*start of find the dress page*/
 
-.textforimage{
-	width:300px;
-	height:auto;
-	position:absolute;
-	margin-top:90px;
-}
-
-.backless{ /*these are images for backless dresses*/
-	width:400px;
-	height:auto;
-}
 	
 
 
