@@ -18,12 +18,13 @@ nav{
 nav li{
 	display:inline-block;
 	padding: 20px;
+	margin-bottom:50px;
 	
 }
 nav a{
 	color:black;
 	text-decoration:none;
-	padding:70px;
+	padding:80px;
 	
 }
 
@@ -34,11 +35,12 @@ a:hover{
 /*end of nav styling */
 /*this logo sits inside the nav bar*/
 .logo{
-	width: 200px;
+	width: 250px;
 	height:auto;
 	position:absolute;
+	align-content:center;
 	margin-left:35%;
-	margin-top:-30px;
+	margin-top:-20px;
 }
 /*start of main page*/
 img{
@@ -46,19 +48,46 @@ img{
 	height: 500px;
 	margin-right: 25px;
 	margin-left:25px;
+	
 }
+
+.main{
+	font-family: 'Playfair Display', serif;
+	text-align:center;
+	width:800px;
+	margin-left:250px;
+	margin-top:20px;
+
+	
+	
+}
+
 .title{
 	font-family: 'Playfair Display', serif;
 	font-size:50px;
 	text-align:center;
 	postion:absolute;
+	margin-bottom:16px;
+	width:100%;
+}
 	
+hr{
+	width:600px;
+	margin-top:50px;
 }
-p{
-	font-family: 'Playfair Display', serif;
-	padding:16px;
+/*start of find the dress page*/
+
+.textforimage{
+	width:300px;
+	height:auto;
+	position:absolute;
+	margin-top:90px;
 }
 
-
+.backless{ /*these are images for backless dresses*/
+	width:400px;
+	height:auto;
+}
+	
 
 
