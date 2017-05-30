@@ -74,16 +74,25 @@ h1{
 	font-weight:100;
 }
 
-.offtheshoulder{
-	display: block;
+/*second div*/
+
+.offtheshoulder{ /*image of off the shoulder dress*/
+	display: inline-block;
 	clear:both;
 	margin-top:175px;
+	
 }
-.textforimage2{
+.textforimage2{ /*text for off the shoulder image*/
 	position:absolute;
 	width:400px;
 	height:auto;
 	top:800px;
 	left:30px;
+	
+}
+
+.text{ 
+	display:inline-block;
+	
 }
 
