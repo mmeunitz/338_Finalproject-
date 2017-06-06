@@ -37,7 +37,7 @@ a:hover{
 /*end of nav*/
 
 
-
+/*first div */
 div{
 	margin: 0 auto; 
 	width:1200px;
@@ -105,11 +105,11 @@ h1{
 	
 	
 }
-
+/*clear class*/
 .clear{
 	clear:both;
 }
-
+/*third div*/
 .thirddiv{
 	margin: 0 auto; 
 	width:1200px;
@@ -131,6 +131,7 @@ h1{
 	left:80px;
 	padding:10px;
 }
+/*fourth div*/
 .fourthdiv{
 	margin: 0 auto; 
 	width:1200px;
@@ -152,6 +153,14 @@ h1{
 	left:80px;
 	top:1970px
 }
+/*fifth div*/
+.fifthdiv{
+	margin: 0 auto; 
+	width:1200px;
+	height:auto;
+
+}
+
 .strapless{
 	margin-top:175px;
 	height:430px;
@@ -159,7 +168,9 @@ h1{
 .fifthdiv p{
 	padding-top:175px;
 	width:600px;
+	
 }
+
 .straplesstext{
 	position:absolute;
 	width:350px;
