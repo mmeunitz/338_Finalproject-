@@ -36,6 +36,8 @@ a:hover{
 }
 /*end of nav*/
 
+
+
 div{
 	margin: 0 auto; 
 	width:1200px;
@@ -149,5 +151,19 @@ h1{
 	height:auto;
 	left:80px;
 	top:1970px
-	
+}
+.strapless{
+	margin-top:175px;
+	height:430px;
+}
+.fifthdiv p{
+	padding-top:175px;
+	width:600px;
+}
+.straplesstext{
+	position:absolute;
+	width:350px;
+	height:auto;
+	left:80px;
+	top:2570px;
 }
