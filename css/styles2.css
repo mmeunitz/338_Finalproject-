@@ -113,12 +113,41 @@ h1{
 	width:1200px;
 	height:auto;
 }
-.clear thirfdiv p{
+.thirddiv p{
 	padding-top:200px;
 	width:600px;
 	
 }
 .elegant{
 	margin-top:175px;
-	height:500px;
+	height:430px;
+}
+.eleganttext{
+	position:absolute;
+	width:350px;
+	height:auto;
+	left:80px;
+	padding:10px;
+}
+.fourthdiv{
+	margin: 0 auto; 
+	width:1200px;
+	height:auto;
+}
+.fourthdiv p{
+	padding-top:500px;
+	width:600px;
+}
+.simpledress{
+	clear:both;
+	margin-top:175px;
+	height:455px;
+}
+.simpletext{
+	position:absolute;
+	width:350px;
+	height:auto;
+	left:80px;
+	top:1970px
+	
 }
