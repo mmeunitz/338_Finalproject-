@@ -46,7 +46,7 @@ div{
 	width:400px;
 	height:auto;
 	position:absolute;
-	top:275px;
+	top:285px;
 	left: 30px;
 
 }
@@ -61,7 +61,7 @@ img{ /*these are images for backless dresses*/
 }
 p {
 	font-family: 'Playfair Display', serif;
-	width:700px;
+	width:600px;
 	display:block;
 	margin-left:400px;
 }
@@ -69,15 +69,20 @@ p {
 h1{
 	font-family: 'Playfair Display', serif;
 	font-size:50px;
-	margin-bottom:70px;
+	margin-bottom:80px;
 	text-align: center;
 	font-weight:100;
 }
 
 /*second div*/
 
+.seconddiv{
+	margin: 0 auto; 
+	width:1200px;
+	height:auto;
+}
+
 .offtheshoulder{ /*image of off the shoulder dress*/
-	display: inline-block;
 	clear:both;
 	margin-top:175px;
 	
@@ -87,12 +92,33 @@ h1{
 	width:400px;
 	height:auto;
 	top:800px;
-	left:30px;
+	left:60px;
 	
 }
 
-.text{ 
-	display:inline-block;
+.seconddiv p{ 
+	padding-top:200px;
+	width:600px;
+	
+	
 	
 }
 
+.clear{
+	clear:both;
+}
+
+.thirddiv{
+	margin: 0 auto; 
+	width:1200px;
+	height:auto;
+}
+.clear thirfdiv p{
+	padding-top:200px;
+	width:600px;
+	
+}
+.elegant{
+	margin-top:175px;
+	height:500px;
+}

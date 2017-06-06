@@ -1,0 +1,71 @@
+commit 2e3330425df15eb39ad7b807ac533d529230a99b
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 30 14:57:22 2017 -0700
+
+    add comments
+
+commit 20d43da3355ad5f2f43f80a49ba3763a8e0ea488
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 30 14:45:06 2017 -0700
+
+    layout styling
+
+commit 10645fae78c67b998d872168a0a261801cd2ca1a
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 30 14:10:25 2017 -0700
+
+    more styling
+
+commit 38dc80d30dafd81a637a7161ed2f5578f0398caf
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 30 12:20:21 2017 -0700
+
+    start of new page
+
+commit e582047235897345873dda452c8df7df327bd9b4
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 23 14:53:09 2017 -0700
+
+    add more comments
+
+commit be1389f665afecbe80335f9a943bffdbb13c41db
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 23 14:42:55 2017 -0700
+
+    add logo
+
+commit 3c7ee2a459e5e39fb4d1d80e11d3afa068fe6679
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 23 13:54:34 2017 -0700
+
+    add title and text
+
+commit 32add5fa03fce31644afa06a4f10b85ee24c86f2
+Author: mmeunitz <morganlmeunitz@aol.com>
+Date:   Tue May 23 13:16:59 2017 -0700
+
+    add wedding photos
+
+commit 80459364d50049e766ff35e469753866598c9abb
+Author: Morgan Meunitz <morganlmeunitz@aol.com>
+Date:   Tue May 16 14:55:08 2017 -0700
+
+    finishing touches
+
+commit 5ef0ce2e768d5bb0c939effa4f8a28c00b6a5896
+Author: Morgan Meunitz <morganlmeunitz@aol.com>
+Date:   Tue May 16 14:46:34 2017 -0700
+
+    created nav
+
+commit b65aa302ebf97ab12cd238dd24c5c67b1d5dead3
+Author: Morgan Meunitz <morganlmeunitz@aol.com>
+Date:   Tue May 16 14:30:26 2017 -0700
+
+    add images
+
+commit 9426d2440788038cbd721e46dbbc072238db5d85
+Author: Morgan Meunitz <morganlmeunitz@aol.com>
+Date:   Tue May 16 12:45:12 2017 -0700
+
+    add files
