@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+
+nav{
+	font-family: 'Quicksand', sans-serif;
+	width:100%;
+	
+	
+
+}
+nav ul{
+	list-style-type:none;
+	margin:0;
+}
+nav li{
+	display:inline-block;
+	padding: 5px;
+	margin-bottom:50px;
+	
+	
+	
+}
+nav a{
+	color:black;
+	text-decoration:none;
+	padding:65px;
+}
+
+a:hover{
+	color:#66D2C8;
+	
+}
+
+.logo{
+	width: 250px;
+	height:auto;
+}
