@@ -2,7 +2,7 @@
 /* CSS Document */
 
 
-
+/*this is the nav that expands the entire page*/
 nav{
 	font-family: 'Quicksand', sans-serif;
 	width:100%;
@@ -27,13 +27,14 @@ nav a{
 	text-decoration:none;
 	padding:65px;
 }
-
+/*this makes it so the text turns blue when someone hovers over*/
 a:hover{
 	color:#66D2C8;
 	
 }
 
-.logo{
+/*.logo{
 	width: 250px;
 	height:auto;
-}
+	....may not use this....
+}*/

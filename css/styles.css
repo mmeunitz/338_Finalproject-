@@ -12,7 +12,7 @@ div{
 	width:1300px;
 
 }
-
+/*this styles the heading*/
 h1{
 	font-family: 'Playfair Display', serif;
 	font-size:45px;
@@ -22,11 +22,14 @@ h1{
 
 	
 }
+/*this is the "pefect" text in the title*/
 .perfect{
 	width:250px;
 	height:auto;
 	margin: -16px 10px;
 }
+
+/*this styles all the images */
 img{
 	width:auto;
 	height: 475px;
@@ -34,8 +37,8 @@ img{
 	margin-left:40px;
 	
 }
-
-.main{
+/*this styles the paragraph under the images*/
+p{
 	font-family: 'Playfair Display', serif;
 	text-align:center;
 	width:800px;

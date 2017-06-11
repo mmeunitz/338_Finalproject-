@@ -1,24 +1,12 @@
 @charset "UTF-8";
 /* CSS Document */
-div{
+
+div{/*div for everyone*/
 	margin:10px 50px;
 	width:1300px;
 }
-.mainpictures{
-	margin:10px 50px;
-	width:1300px;
-}
 
-
-
-.mainpictures img {
-	width:350px;
-	height:auto;
-	float:left;
-	padding:20px;
-}
-
-h1{
+h1{/* the title */
 	font-family: 'Playfair Display', serif;
 	font-size:50px;
 	margin-bottom:10px;
@@ -26,8 +14,71 @@ h1{
 	font-weight:100;
 }
 
-.inspiration{
-	width:350px;
+.inspiration{/*image that says "inspiration" */
+	width:370px;
 	height:auto;
 	margin:-10px 10px;
+}
+
+.photos{/*photos div*/
+	margin:20px 90px;
+	width:1200px;
+}
+
+.photos img {/*first three images on page*/
+	width:350px;
+	height:auto;
+	float:left;
+	padding:20px;
+}
+
+.photostext p{ /*first paragraph*/
+	margin: 40px 50px;
+	font-family: 'Playfair Display', serif;
+	clear:left;
+	width:900px;
+	
+}
+.text{/*styes all the text images */
+	width:190px;
+	height:auto;
+	margin-left:50px;
+}
+hr{
+	width:500px;
+	clear:both;
+}
+
+/*start of decoration advice div*/
+
+.decoration img{/*image of decoration with lights*/
+	width:350px;
+	height:auto;
+	margin: 40px 50px;
+	float:left;
+}
+.decoration p{/*second paragraph*/
+	font-family: 'Playfair Display', serif;
+	display:block;
+	clear: right;
+	width:900px;
+}
+
+/*hairstyle advice div*/
+.hairstyle img{ /*hairstyle images*/
+	width:350px;
+	height:auto;
+	margin:40px 50px;
+	float:left;
+}
+.hairstyle p{/*thrid paragraph*/
+	font-family: 'Playfair Display', serif;
+	width:700px;
+	clear:left;
+	margin-left:50px;
+	margin-bottom: 30px;
+}
+.style{/*helps text class style "hairstyle"*/
+	clear:both;
+	margin-left:50px;
 }
