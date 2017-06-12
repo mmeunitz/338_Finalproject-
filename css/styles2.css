@@ -1,6 +1,10 @@
 @charset "UTF-8";
 /* CSS Document */
 
+hr{
+	width:500px;
+}
+
 h1{/*the title*/
 	font-family: 'Playfair Display', serif;
 	font-size:50px;
@@ -32,8 +36,8 @@ div{
 	width:400px;
 	height:auto;
 	position:absolute;
-	top:285px;
-	left: 300px;
+	top:200px;
+	left:250px;
 
 }
 
@@ -67,7 +71,7 @@ p {/*paragraph for "go backless"*/
 	margin-left:350px;
 	width:500px;
 	height:auto;
-	margin-top:100px;
+	margin-top:150px;
 	
 	
 	
@@ -76,8 +80,8 @@ p {/*paragraph for "go backless"*/
 	position:absolute;
 	width:600px;
 	height:auto;
-	top:1100px;
-	left:300px;
+	top:1030px;
+	left:275px;
 	
 }
 
@@ -99,20 +103,21 @@ p {/*paragraph for "go backless"*/
 }
 .thirddiv p{/*paragraph for third div*/
 	width:600px;
+	padding:16px;
 	
 }
 .elegant{/*image for elegance*/
 	width:500px;
 	height:auto;
 	margin-left:350px;
-	margin-top:100px;
+	margin-top:150px;
 }
 .eleganttext{/*text that says "be elegant"*/
 	position:absolute;
 	width:350px;
 	height:auto;
 	left:300px;
-	top:1970px;
+	top:2030px;
 }
 
 
@@ -124,19 +129,20 @@ p {/*paragraph for "go backless"*/
 }
 .fourthdiv p{/*fourth div paragraph */
 	width:600px;
+	padding:16px;
 }
 .simpledress{/*image for simple dress*/
 	width:500px;
 	height:auto;
 	margin-left:350px;
-	margin-top:100px;
+	margin-top:150px;
 }
 .simpletext{/*text image that says "be simple" */
 	position:absolute;
 	width:350px;
 	height:auto;
 	left:300px;
-	top:2800px
+	top:2990px
 }
 
 
@@ -151,10 +157,11 @@ p {/*paragraph for "go backless"*/
 	width:500px;
 	height:auto;
 	margin-left:350px;
-	margin-top:100px;
+	margin-top:150px;
 }
 .fifthdiv p{/*paragraph for strapless image*/
 	width:600px;
+	padding:16px;
 	
 }
 
@@ -163,5 +170,5 @@ p {/*paragraph for "go backless"*/
 	width:350px;
 	height:auto;
 	left:300px;
-	top:3650px;
+	top:4030px;
 }

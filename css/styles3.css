@@ -37,10 +37,11 @@ h1{/* the title */
 	font-family: 'Playfair Display', serif;
 	clear:left;
 	width:900px;
+	padding:10px;
 	
 }
 .text{/*styes all the text images */
-	width:190px;
+	width:170px;
 	height:auto;
 	margin-left:50px;
 }
@@ -57,11 +58,18 @@ hr{
 	margin: 40px 50px;
 	float:left;
 }
-.decoration p{/*second paragraph*/
+.decoration2 p{/*second paragraph*/
 	font-family: 'Playfair Display', serif;
 	display:block;
 	clear: right;
 	width:900px;
+	padding:10px;
+}
+
+.decoration2 img{
+	width:270px;
+	height:auto;
+	margin-top:50px;
 }
 
 /*hairstyle advice div*/
@@ -69,16 +77,67 @@ hr{
 	width:350px;
 	height:auto;
 	margin:40px 50px;
-	float:left;
+	
+	
 }
-.hairstyle p{/*thrid paragraph*/
+.hairstyle2 p{/*thrid paragraph*/
 	font-family: 'Playfair Display', serif;
 	width:700px;
 	clear:left;
 	margin-left:50px;
 	margin-bottom: 30px;
+	padding:10px;
 }
 .style{/*helps text class style "hairstyle"*/
 	clear:both;
 	margin-left:50px;
+
 }
+
+.hairstyle2 img{
+	width:250px;
+	height:auto;
+}
+
+/*makeup advice div*/
+.makeup img {/*makeup images*/
+	width:340px;
+	height:auto;
+	margin-top:30px;
+	margin:40px 50px;
+}
+.makeup2 p{/*fourth paragraph*/
+	font-family: 'Playfair Display', serif;
+	width:650px;
+	clear:left;
+	margin-left:50px;
+	padding:16px;
+	margin-bottom:50px;
+}
+.makeup2 img{
+	width:200px;
+	height:auto;
+	margin-left:50px;
+	clear:both;
+}
+
+/*flowers div*/
+.flowers img {/*flower images*/
+	width:350px;
+	height:auto;
+	margin-top:30px;
+	float:left;
+	padding:20px;
+}
+.flower p{/*fifth paragraph*/
+	width:700px;
+	clear:left;
+	font-family: 'Playfair Display', serif;
+	margin-left:50px;
+	margin-bottom:50px;
+	padding:16px;
+}
+.flowers{
+	float:left;
+}
+
